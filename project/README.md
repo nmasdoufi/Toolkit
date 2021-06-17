@@ -1,8 +1,7 @@
-"""
-    Program that will collect keywords from a web page and use them to perform 
+
+Program that will collect keywords from a web page and use them to perform 
 a brute force attack against an exposed admin area.
 
-"""
 
 Requirement:
 
