@@ -9,7 +9,7 @@ message indicating that a connection has been established.
 from socket import AF_INET, SOCK_STREAM, socket
 from threading import Thread
 
-ip, port = "localhost", 1337
+ip, port = "localhost", 9999
 
 server = socket(AF_INET, SOCK_STREAM)
 server.bind((ip, port))
